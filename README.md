@@ -23,6 +23,7 @@ Here are some of the technologies and tools I work with:
 - **Tools:** Git, VS Code, Xcode, Firebase
 - **Databases:** MongoDB, MySQL
 
+
 ## 🌟 Projects
 
 Here are some of my notable projects:
