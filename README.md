@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hello, I'm Reavanth!
+# 👋 Hello, I'm Revanth!
 
 Welcome to my GitHub profile! I'm a **CSE student at SRM University, Chennai**, studying at the IOS center. I love working on **web development, machine learning, and mobile app development** and am passionate about creating innovative solutions that make an impact.
 
