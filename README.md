@@ -1,5 +1,3 @@
-Here’s your updated GitHub profile, Reavanth:
-
 ---
 
 # 👋 Hello, I'm Reavanth!
