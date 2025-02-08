@@ -39,8 +39,10 @@ Here are some of my notable projects:
    - Repository: 
 
 ## 📈 GitHub Stats
-
-![Reavanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rev0212&show_icons=true&theme=radical)
+![GitHub Repositories](https://github-readme-stats.vercel.app/api?username=Rev0212&show=repos&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rev0212&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rev0212&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rev0212&theme=radical)
 
 ## 🔗 Connect with Me
 
