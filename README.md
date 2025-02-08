@@ -31,12 +31,12 @@ Here are some of my notable projects:
 1. **TailorFit**  
    - Description: An iOS app that allows users to "try on" clothing virtually by selecting or capturing photos and get their Measureemnts
    - Tech Stack: Swift, CoreML, python,figma
-   - Repository: *[Provide Link to the repository]*
+   - Repository:
 
 2. **Jobby App**  
    - Description: A React app for job searching with login functionality and job item details.Help me to learn React
    - Tech Stack: React, JavaScript, Firebase
-   - Repository: *[Provide Link to the repository]*
+   - Repository: 
 
 ## 📈 GitHub Stats
 
