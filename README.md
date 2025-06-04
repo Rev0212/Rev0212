@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **CSE student at SRM University, Chennai**, 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **TailorFit**, a SwiftUI app.
+- 🔭 I’m currently working on **TailorFit**, a SwiftUI Virtual TryOn app.
 - 🌱 I’m currently learning **Machine Learning and Data Structures & Algorithms (DSA)**.
 - 👯 I’m looking to collaborate on **ReactJS, iOS development, and machine learning projects**.
 - 🤔 I’m looking for help with **Machine Learning and Cloud Computing**.
