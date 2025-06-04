@@ -33,11 +33,6 @@ Here are some of my notable projects:
    - Tech Stack: Swift, CoreML, python,figma
    - Repository:
 
-2. **Jobby App**  
-   - Description: A React app for job searching with login functionality and job item details.Help me to learn React
-   - Tech Stack: React, JavaScript, Firebase
-   - Repository: 
-
 ## 📈 GitHub Stats
 ![GitHub Repositories](https://github-readme-stats.vercel.app/api?username=Rev0212&show=repos&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rev0212&theme=radical)
